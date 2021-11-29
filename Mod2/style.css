@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#assignment-instructions{
+    color: violet;
+    font-family: sans-serif;
+}
+
+code{
+    font-family: monospace;
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+li{
+    color: rosybrown;
+}
+
+#blackback{
+    background-color: black;
+    color: whitesmoke;
+}
+
+ol{
+    background-color: black;
+    color: whitesmoke; 
+}
